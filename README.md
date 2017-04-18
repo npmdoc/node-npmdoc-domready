@@ -1,9 +1,14 @@
-# api documentation for  [domready (v1.0.8)](https://github.com/ded/domready)  [![npm package](https://img.shields.io/npm/v/npmdoc-domready.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-domready) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-domready.svg)](https://travis-ci.org/npmdoc/node-npmdoc-domready)
+# npmdoc-domready
+
+#### api documentation for  [domready (v1.0.8)](https://github.com/ded/domready)  [![npm package](https://img.shields.io/npm/v/npmdoc-domready.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-domready) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-domready.svg)](https://travis-ci.org/npmdoc/node-npmdoc-domready)
+
 #### modern domready
 
-[![NPM](https://nodei.co/npm/domready.png?downloads=true)](https://www.npmjs.com/package/domready)
+[![NPM](https://nodei.co/npm/domready.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/domready)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-domready/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-domready_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-domready/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-domready/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-domready/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-domready/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-domready/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-domready/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Dustin Diaz",
-        "email": "dustin@dustindiaz.com",
         "url": "http://dustindiaz.com"
     },
     "bugs": {
@@ -45,17 +49,14 @@
     "main": "./ready.js",
     "maintainers": [
         {
-            "name": "ded",
-            "email": "polvero@gmail.com"
+            "name": "ded"
         },
         {
-            "name": "fat",
-            "email": "jacobthornton@gmail.com"
+            "name": "fat"
         }
     ],
     "name": "domready",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/ded/domready.git"
@@ -64,16 +65,6 @@
     "version": "1.0.8"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module domready](#apidoc.module.domready)
-
-
-
-# <a name="apidoc.module.domready"></a>[module domready](#apidoc.module.domready)
 
 
 

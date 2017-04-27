@@ -1,6 +1,6 @@
 # npmdoc-domready
 
-#### api documentation for  [domready (v1.0.8)](https://github.com/ded/domready)  [![npm package](https://img.shields.io/npm/v/npmdoc-domready.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-domready) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-domready.svg)](https://travis-ci.org/npmdoc/node-npmdoc-domready)
+#### basic api documentation for  [domready (v1.0.8)](https://github.com/ded/domready)  [![npm package](https://img.shields.io/npm/v/npmdoc-domready.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-domready) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-domready.svg)](https://travis-ci.org/npmdoc/node-npmdoc-domready)
 
 #### modern domready
 
@@ -62,7 +62,8 @@
         "url": "git+https://github.com/ded/domready.git"
     },
     "scripts": {},
-    "version": "1.0.8"
+    "version": "1.0.8",
+    "bin": {}
 }
 ```
 
